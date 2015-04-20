@@ -1,0 +1,1 @@
+<?phpinterface IJsonSerializable {	public function tojson();	public function jsonSerialize();}?>
